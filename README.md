@@ -1,7 +1,13 @@
 # Bonjour, je me nomme Mamadou Djiguissemin COULIBALY
 
 ## Je suis actuellement étudiant en cycle ingénieure informatique à l'école Polytechnique de l'Université de Tours (Master 1).
-### Passionné par la programmation logicielle, la science et l'intelligence artificielle, j'aime explorer de nouveaux horizons et élargir ma connaissance.
+## Passionné par la programmation logicielle, la science et l'intelligence artificielle, j'aime explorer de nouveaux horizons et élargir ma connaissance.
+
+
+---
+
+
+---
 
 <!--
 **Mdc1960/Mdc1960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
