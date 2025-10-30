@@ -1,11 +1,19 @@
 # Bonjour, je me nomme Mamadou Djiguissemin COULIBALY
 
-## Je suis actuellement étudiant en cycle ingénieure informatique à l'école Polytechnique de l'Université de Tours (Master 1).
-## Passionné par la programmation logicielle, la science et l'intelligence artificielle, j'aime explorer de nouveaux horizons et élargir ma connaissance.
+### Je suis actuellement étudiant en cycle ingénieure informatique à l'école Polytechnique de l'Université de Tours (Master 1).
+### Passionné par la programmation logicielle, la science et l'intelligence artificielle, j'aime explorer de nouveaux horizons et élargir ma connaissance.
 
 
 ---
 
+## COMPÉTENCES TECHNIQUES
+Mon parcours universitaire m'a permis d'apprendre de nouveaux langages de programmation et de me familiariser avec ces derniers. Pourquoi ne pas en énumérer quelques-uns?
+
+- **Langages :** Java, C/C++, Python, HTML, CSS, JavaScript
+- **Frameworks :** ANgular, Spring Boot, Node.js
+- **Base de données :** Mysql, PostgreSQL, MariaDB
+- **DevOps :** GitHub, GitLab, Docker
+- **Méthodes :** Agile/Scrum, UML
 
 ---
 
