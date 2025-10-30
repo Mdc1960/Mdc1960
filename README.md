@@ -12,8 +12,15 @@ Mon parcours universitaire m'a permis d'apprendre de nouveaux langages de progra
 - **Langages :** Java, C/C++, Python, HTML, CSS, JavaScript
 - **Frameworks :** ANgular, Spring Boot, Node.js
 - **Base de données :** Mysql, PostgreSQL, MariaDB
-- **DevOps :** GitHub, GitLab, Docker
+- **DevOps :** GitHub, GitLab, Docker, CI/CD
 - **Méthodes :** Agile/Scrum, UML
+
+---
+
+## PROJETS ACADÉMIQUES ET PERSONNELS
+| Projet | Description | Technologies |
+|--------|-------------|--------------|
+| [Gestion d'une entreprise]() | Application de suivie des employés.(Pointage) | Java, JavaFx, Designs Patterns |
 
 ---
 
