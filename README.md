@@ -9,7 +9,7 @@
 ## COMPÉTENCES TECHNIQUES
 Mon parcours universitaire m'a permis d'apprendre de nouveaux langages de programmation et de me familiariser avec ces derniers. Pourquoi ne pas en énumérer quelques-uns?
 
-- **Langages :** Java, C/C++, Python, HTML, CSS, JavaScript
+- **Langages :** Java, C/C++, ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)Python, HTML, CSS, JavaScript
 - **Frameworks :** ANgular, Spring Boot, Node.js
 - **Base de données :** Mysql, PostgreSQL, MariaDB
 - **DevOps :** GitHub, GitLab, Docker, CI/CD
@@ -21,7 +21,7 @@ Mon parcours universitaire m'a permis d'apprendre de nouveaux langages de progra
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
 | [Gestion d'une entreprise]() | Application de suivie des employés. | Java, JavaFx, Designs Patterns |
-| [Gestion des horaires]() | Application de Pointage pour les employés) | Java, JavaFx, Designs Patterns |
+| [Gestion des horaires]() | Application de Pointage pour les employés. | Java, JavaFx, Designs Patterns |
 
 ---
 
