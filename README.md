@@ -9,8 +9,8 @@
 ## COMPÉTENCES TECHNIQUES
 Mon parcours universitaire m'a permis d'apprendre de nouveaux langages de programmation et de me familiariser avec ces derniers. Pourquoi ne pas en énumérer quelques-uns?
 
-- **Langages :** Java, C/C++, ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white), HTML, CSS, JavaScript
-- **Frameworks :** ANgular, Spring Boot, Node.js
+- **Langages :** ![Python](https://img.shields.io/badge/Java?logo=python&logoColor=white)Java, C/C++, ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white), HTML, CSS, JavaScript
+- **Frameworks :** Angular, Spring Boot, Node.js
 - **Base de données :** Mysql, PostgreSQL, MariaDB
 - **DevOps :** GitHub, GitLab, Docker, CI/CD
 - **Méthodes :** Agile/Scrum, UML
@@ -22,6 +22,12 @@ Mon parcours universitaire m'a permis d'apprendre de nouveaux langages de progra
 |--------|-------------|--------------|
 | [Gestion d'une entreprise]() | Application de suivie des employés. | Java, JavaFx, Designs Patterns |
 | [Gestion des horaires]() | Application de Pointage pour les employés. | Java, JavaFx, Designs Patterns |
+
+---
+
+## ME CONTACTER
+- [mamadou.coulibaly@etu.univ-tours.fr](mailto:mamadou.coulibaly@etu.univ-tours.fr)
+- [LinkedIn](https://linkedin.com/in/mamadou-djiguissemin-coulibaly)
 
 ---
 
