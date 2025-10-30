@@ -20,7 +20,8 @@ Mon parcours universitaire m'a permis d'apprendre de nouveaux langages de progra
 ## PROJETS ACADÉMIQUES ET PERSONNELS
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
-| [Gestion d'une entreprise]() | Application de suivie des employés.(Pointage) | Java, JavaFx, Designs Patterns |
+| [Gestion d'une entreprise]() | Application de suivie des employés. | Java, JavaFx, Designs Patterns |
+| [Gestion des horaires]() | Application de Pointage pour les employés) | Java, JavaFx, Designs Patterns |
 
 ---
 
