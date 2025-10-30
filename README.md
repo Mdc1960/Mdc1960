@@ -28,7 +28,7 @@ Mon parcours universitaire m'a permis d'apprendre de nouveaux langages de progra
 
 ## ME CONTACTER
 - [mamadou.coulibaly@etu.univ-tours.fr](mailto:mamadou.coulibaly@etu.univ-tours.fr)
-- [LinkedIn](https://linkedin.com/in/mamadou-djiguissemin-coulibaly)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/mamadou-djiguissemin-coulibaly)
 
 ---
 
