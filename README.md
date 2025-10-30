@@ -10,9 +10,9 @@
 Mon parcours universitaire m'a permis d'apprendre de nouveaux langages de programmation et de me familiariser avec ces derniers. Pourquoi ne pas en énumérer quelques-uns?
 
 - **Langages :** ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white), ![C/C++](https://img.shields.io/badge/C/C++-5197BD?logo=cplusplus&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white), ![HTML](https://img.shields.io/badge/HTML-6170AF?logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-A582BG?logo=css&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
-- **Frameworks :** Angular, ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)Spring Boot, Node.js
+- **Frameworks :** Angular, ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white), ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 - **Base de données :** Mysql, PostgreSQL, MariaDB
-- **DevOps :** GitHub, GitLab, Docker, CI/CD
+- **DevOps :** GitHub, GitLab, ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white), CI/CD
 - **Méthodes :** Agile/Scrum, UML
 
 ---
