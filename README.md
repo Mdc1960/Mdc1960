@@ -10,10 +10,11 @@
 Mon parcours universitaire m'a permis d'apprendre de nouveaux langages de programmation et de me familiariser avec ces derniers. Pourquoi ne pas en énumérer quelques-uns?
 
 - **Langages :** ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white), ![C/C++](https://img.shields.io/badge/C/C++-5197BD?logo=cplusplus&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white), ![HTML](https://img.shields.io/badge/HTML-6170AF?logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-A582BG?logo=css&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
-- **Frameworks :** Angular, ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white), ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-- **Base de données :** Mysql, PostgreSQL, MariaDB
-- **DevOps :** GitHub, GitLab, ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white), CI/CD
-- **Méthodes :** Agile/Scrum, UML
+- **Frameworks :** ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white), ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white), ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+- **Base de données :** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white), ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+- **DevOps :** ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white), ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white), ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white),     ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?logo=gitlab&logoColor=white)
+- **Méthodes :** ![Agile](https://img.shields.io/badge/Agile%2FScrum-2496ED?logo=scrumalliance&logoColor=white), ![UML](https://img.shields.io/badge/UML-02569B?logoColor=white)
 
 ---
 
