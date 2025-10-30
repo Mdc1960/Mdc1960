@@ -9,7 +9,7 @@
 ## COMPÉTENCES TECHNIQUES
 Mon parcours universitaire m'a permis d'apprendre de nouveaux langages de programmation et de me familiariser avec ces derniers. Pourquoi ne pas en énumérer quelques-uns?
 
-- **Langages :** ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white), ![C/C++](https://img.shields.io/badge/C/C++-5197BD?logo=cplusplus&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white), HTML, CSS, ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)JavaScript
+- **Langages :** ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white), ![C/C++](https://img.shields.io/badge/C/C++-5197BD?logo=cplusplus&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white), HTML, ![CSS](https://img.shields.io/badge/CSS-A582BG?logo=css&logoColor=white)CSS, ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
 - **Frameworks :** Angular, Spring Boot, Node.js
 - **Base de données :** Mysql, PostgreSQL, MariaDB
 - **DevOps :** GitHub, GitLab, Docker, CI/CD
