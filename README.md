@@ -23,7 +23,7 @@ Mon parcours universitaire m'a permis d'apprendre de nouveaux langages de progra
 |--------|-------------|--------------|
 | [Gestion d'une entreprise](https://github.com/Mdc1960/PrincipalApplication) | Application de suivie des employés. | Java, JavaFx, Designs Patterns |
 | [Gestion des horaires](https://github.com/Mdc1960/PointeuseApplication) | Application de Pointage pour les employés. | Java, JavaFx, Designs Patterns |
-| [Schotten Totten]() | Jeu de société Schotten Totten. | C++, GUI |
+| [Schotten Totten](https://github.com/Mdc1960/ShottenTottenProject) | Jeu de société Schotten Totten. | C++, GUI |
 
 ---
 
