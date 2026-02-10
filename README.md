@@ -28,11 +28,11 @@ Mon parcours universitaire m'a permis d'apprendre de nouveaux langages de progra
 ## PROJETS ACADÉMIQUES ET PERSONNELS
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
+| [Book Box Back End](https://github.com/Mdc1960/BookBoxBackend.git) | Partie backend pour la gestion d'une bibliothèque. | Java, Spring Boot, JWT |
+| [Book Box Front End](https://github.com/Mdc1960/BookBoxFrontend.git) | Partie frontend pour la gestion d'une bibliothèque. | Angular, TypeScript |
 | [Gestion d'une entreprise](https://github.com/Mdc1960/PrincipalApplication) | Application de suivie des employés. | Java, JavaFx, Designs Patterns |
 | [Gestion des horaires](https://github.com/Mdc1960/PointeuseApplication) | Application de Pointage pour les employés. | Java, JavaFx, Designs Patterns |
 | [Schotten Totten](https://github.com/Mdc1960/ShottenTottenProject) | Jeu de société Schotten Totten. | C++, GUI |
-| [Book Box Back End](https://github.com/Mdc1960/BookBoxBackend.git) | Partie backend pour la gestion d'une bibliothèque. | Java, Spring Boot, JWT |
-| [Book Box Front End](https://github.com/Mdc1960/BookBoxFrontend.git) | Partie frontend pour la gestion d'une bibliothèque. | Angular |
 
 ---
 
