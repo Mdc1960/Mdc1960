@@ -1,4 +1,4 @@
-# Bonjour, je me nomme Mamadou Djiguissemin COULIBALY
+# Bonjour, je me nomme Mamadou Djiguissèmin COULIBALY
 
 ### Je suis actuellement étudiant en cycle ingénieure informatique à l'école Polytechnique de l'Université de Tours (Master 1).
 ### Passionné par la programmation logicielle, la science et l'intelligence artificielle, j'aime explorer de nouveaux horizons et élargir ma connaissance.
@@ -18,18 +18,19 @@ Mon parcours universitaire m'a permis d'apprendre de nouveaux langages de progra
 
 ---
 
-## Application for testing
+## Demostration d'usage des applications développées
 |Name | Link |
 |-----|------|
-| Application for managing books and their locations | https://mdc1960.github.io/BookBoxFrontend/ |
+| Application de gestion d'une bibliothèque | https://mdc1960.github.io/BookBoxFrontend/ |
+| Application de gestion d'événements corporatifs | https://corpo-padel.vercel.app/ |
 
 ---
 
 ## PROJETS ACADÉMIQUES ET PERSONNELS
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
-| [Book Box Back End](https://github.com/Mdc1960/BookBoxBackend.git) | Partie backend pour la gestion d'une bibliothèque. | Java, Spring Boot, JWT |
-| [Book Box Front End](https://github.com/Mdc1960/BookBoxFrontend.git) | Partie frontend pour la gestion d'une bibliothèque. | Angular, TypeScript |
+| [Book Box Backend](https://github.com/Mdc1960/BookBoxBackend.git) | Partie backend pour la gestion d'une bibliothèque. | Java, Spring Boot, JWT |
+| [Book Box Frontend](https://github.com/Mdc1960/BookBoxFrontend.git) | Partie frontend pour la gestion d'une bibliothèque. | Angular, TypeScript |
 | [Gestion d'une entreprise](https://github.com/Mdc1960/PrincipalApplication) | Application de suivie des employés. | Java, JavaFx, Designs Patterns |
 | [Gestion des horaires](https://github.com/Mdc1960/PointeuseApplication) | Application de Pointage pour les employés. | Java, JavaFx, Designs Patterns |
 | [Schotten Totten](https://github.com/Mdc1960/ShottenTottenProject) | Jeu de société Schotten Totten. | C++, GUI |
