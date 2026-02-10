@@ -1,7 +1,6 @@
 # Mamadou Djiguissèmin COULIBALY
 
-### Actuellement étudiant en cycle ingénieure informatique à l'école Polytechnique de l'Université de Tours (Master 1), je suis particulièrement
-### passionné par la programmation logicielle, la science et l'Intelligence Artificielle. Toujours à quête de l'excellence, j'aiguise continuellement mes compétences tout en apprenant de nouvelles. J'aime concevoir et développer des applications de qualité et facilement maintenables. Vous trouverez quelques-uns de mes projets personnels ainsi que d'autres projets que j'ai développés en étroite collaboration avec d'autres équipes de développement. https://gitlab.com/Cmd-1/projectcorpopadel.git
+### Actuellement étudiant en cycle ingénieure informatique à l'école Polytechnique de l'Université de Tours (Master 1), je suis particulièrement passionné par la programmation logicielle, la science et l'Intelligence Artificielle. Toujours à quête de l'excellence, j'aiguise continuellement mes compétences tout en apprenant de nouvelles. J'aime concevoir et développer des applications de qualité et facilement maintenables. Vous trouverez quelques-uns de mes projets personnels ainsi que d'autres projets que j'ai développés en étroite collaboration avec d'autres équipes de développement.
 
 
 ---
@@ -31,6 +30,7 @@ Mon parcours universitaire m'a permis d'apprendre de nouveaux langages de progra
 |--------|-------------|--------------|
 | [Book Box Backend](https://github.com/Mdc1960/BookBoxBackend.git) | Partie backend pour la gestion d'une bibliothèque. | Java, Spring Boot, JWT |
 | [Book Box Frontend](https://github.com/Mdc1960/BookBoxFrontend.git) | Partie frontend pour la gestion d'une bibliothèque. | Angular, TypeScript |
+| [Appication de gestion d'événements](https://gitlab.com/Cmd-1/projectcorpopadel.git) | Cette application permet de gérer les événements, matchs et activités auxquels participe une entreprise | FastAPI, Vue.js, Cypress (Test E2E), Python|
 | [Gestion d'une entreprise](https://github.com/Mdc1960/PrincipalApplication) | Application de suivie des employés. | Java, JavaFx, Designs Patterns |
 | [Gestion des horaires](https://github.com/Mdc1960/PointeuseApplication) | Application de Pointage pour les employés. | Java, JavaFx, Designs Patterns |
 | [Schotten Totten](https://github.com/Mdc1960/ShottenTottenProject) | Jeu de société Schotten Totten. | C++, GUI |
