@@ -1,6 +1,6 @@
 # Mamadou Djiguissèmin COULIBALY
 
-### Actuellement étudiant en cycle ingénieure informatique à l'école Polytechnique de l'Université de Tours (Master 1), je suis particulièrement passionné par la programmation logicielle, la science et l'Intelligence Artificielle. Toujours à quête de l'excellence, j'aiguise continuellement mes compétences tout en apprenant de nouvelles. J'aime concevoir et développer des applications de qualité et facilement maintenables. Vous trouverez quelques-uns de mes projets personnels ainsi que d'autres projets que j'ai développés en étroite collaboration avec d'autres équipes de développement.
+Actuellement étudiant en cycle ingénieure informatique à l'école Polytechnique de l'Université de Tours (Master 1), je suis particulièrement passionné par la programmation logicielle, la science et l'Intelligence Artificielle. Toujours à quête de l'excellence, j'aiguise continuellement mes compétences tout en apprenant de nouvelles. J'aime concevoir et développer des applications de qualité et facilement maintenables. Vous trouverez quelques-uns de mes projets personnels ainsi que d'autres projets que j'ai développés en étroite collaboration avec d'autres équipes de développement.
 
 
 ---
