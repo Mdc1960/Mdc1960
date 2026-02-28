@@ -20,8 +20,8 @@ Mon parcours universitaire m'a permis d'apprendre de nouveaux langages de progra
 ## Demostration d'usage des applications développées
 |Name | Link |
 |-----|------|
-| Application de gestion d'une bibliothèque | https://mdc1960.github.io/BookBoxFrontend/ |
-| Application de gestion d'événements corporatifs | https://corpo-padel.vercel.app/ |
+| Application de gestion d'une bibliothèque | [full-stack-app](http://57.129.115.158) |
+| Application de gestion d'événements corporatifs | [corpo-padel](https://corpo-padel.vercel.app/) |
 
 ---
 
