@@ -21,7 +21,6 @@ Mon parcours universitaire m'a permis d'apprendre de nouveaux langages de progra
 |Name | Link |
 |-----|------|
 | Application de gestion d'une bibliothèque | [full-stack-app](http://57.129.115.158) |
-| Application de gestion d'événements corporatifs | [corpo-padel](https://corpo-padel.vercel.app/) |
 
 ---
 
