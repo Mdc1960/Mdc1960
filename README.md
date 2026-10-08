@@ -34,7 +34,7 @@ Mon parcours universitaire m'a permis d'apprendre de nouveaux langages de progra
 | [Book Box Backend](https://github.com/Mdc1960/BookBoxBackend.git) | Partie backend pour la gestion d'une bibliothèque. | Java, Spring Boot, JWT |
 | [Book Box Frontend](https://github.com/Mdc1960/BookBoxFrontend.git) | Partie frontend pour la gestion d'une bibliothèque. | Angular, TypeScript |
 | [Algorithme d'optimisation d'itinéraires touristique multi-jours](https://github.com/Mdc1960/TournerIA) | Modélisation d'un problème d'optimisation combinatoire intégrant plusieurs jours, hôtels, points d'interêts et contraintes de temps. | C++, Heuristiques et Métaheuristiques |
-| [Schotten Totten](https://github.com/Mdc1960/ShottenTottenProject) | Jeu de société Schotten Totten. | C++ avancé, GUI |
+| [Schotten Totten](https://github.com/Mdc1960/ShottenTottenProject) | Conception et développement du Jeu de société Schotten Totten. | C++ avancé, Design Pattern Observer, Singleton, Factory |
 | [Power 4 Game](https://github.com/Mdc1960/Power4Game) | Jeu Puissance 4 permettant à un joueur humain de jouer contre une IA développée grâce à l'algorithme MinMax. | Python, Tkinter, Algorithmique (MinMax), Génie Logiciel |
 | [Application de construction de Graphe](https://github.com/Mdc1960/GraphProject.git) | Cette application permet de créer des Graphes orientés et non orientés | C++ |
 | [Appication de gestion d'événements](https://gitlab.com/Cmd-1/projectcorpopadel.git) | Cette application permet de gérer les événements, matchs et activités auxquels participe une entreprise | FastAPI, Vue.js, Cypress (Test E2E), Python|
