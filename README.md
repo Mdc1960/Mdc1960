@@ -36,7 +36,7 @@ Mon parcours universitaire m'a permis d'apprendre de nouveaux langages de progra
 | [Algorithme d'optimisation d'itinéraires touristique multi-jours](https://github.com/Mdc1960/TournerIA) | Modélisation d'un problème d'optimisation combinatoire intégrant plusieurs jours, hôtels, points d'interêts et contraintes de temps. | C++, Heuristiques et Métaheuristiques |
 | [Schotten Totten](https://github.com/Mdc1960/ShottenTottenProject) | Conception et développement du Jeu de société Schotten Totten. | C++ avancé, Design Pattern Observer, Singleton, Factory |
 | [Power 4 Game](https://github.com/Mdc1960/Power4Game) | Jeu Puissance 4 permettant à un joueur humain de jouer contre une IA développée grâce à l'algorithme MinMax. | Python, Tkinter, Algorithmique (MinMax), Génie Logiciel |
-| [Application de construction de Graphe](https://github.com/Mdc1960/GraphProject.git) | Cette application permet de créer des Graphes orientés et non orientés | C++ |
+| [Application de construction de Graphe](https://github.com/Mdc1960/GraphProject.git) | Cette application permet de créer des Graphes orientés et non orientés | C++, Algorithmique, Bonnes pratiques du Génie Logiciel |
 | [Appication de gestion d'événements](https://gitlab.com/Cmd-1/projectcorpopadel.git) | Cette application permet de gérer les événements, matchs et activités auxquels participe une entreprise | FastAPI, Vue.js, Cypress (Test E2E), Python|
 | [Gestion d'une entreprise](https://github.com/Mdc1960/PrincipalApplication) | Application de suivie des employés. | Java, JavaFx, Designs Patterns |
 | [Gestion des horaires](https://github.com/Mdc1960/PointeuseApplication) | Application de Pointage pour les employés. | Java, JavaFx, Designs Patterns |
